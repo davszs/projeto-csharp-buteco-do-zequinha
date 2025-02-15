@@ -1,0 +1,11 @@
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\EmpresaABC\ButecoZequinha\bin\Debug\ButecoZequinha.exe.config
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\EmpresaABC\ButecoZequinha\bin\Debug\ButecoZequinha.exe
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\EmpresaABC\ButecoZequinha\bin\Debug\ButecoZequinha.pdb
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\EmpresaABC\ButecoZequinha\obj\Debug\ButecoZequinha.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\EmpresaABC\ButecoZequinha\obj\Debug\ButecoZequinha.frmSplash.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\EmpresaABC\ButecoZequinha\obj\Debug\ButecoZequinha.Properties.Resources.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\EmpresaABC\ButecoZequinha\obj\Debug\ButecoZequinha.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\EmpresaABC\ButecoZequinha\obj\Debug\ButecoZequinha.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\EmpresaABC\ButecoZequinha\obj\Debug\ButecoZequinha.exe
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\EmpresaABC\ButecoZequinha\obj\Debug\ButecoZequinha.pdb
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\EmpresaABC\ButecoZequinha\obj\Debug\ButecoZequinha.frmLogin.resources
